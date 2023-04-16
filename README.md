@@ -7,7 +7,10 @@ Check API document `apiDocumentFlipkart.md`
 
 ### Clone the repo to local machine
 ```git
-git clone https://github.com/suraj-singh12/flipkart-api.git
+git clone https://github.com/suraj-singh12/flipkart-new-api.git
+```
+```
+cd flipkart-new-api
 ```
 
 ### Install dependencies
