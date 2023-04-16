@@ -1,0 +1,24 @@
+{
+  "name": "flipkart-api",
+  "version": "1.0.0",
+  "description": "flipkart api",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "flipkart",
+    "api"
+  ],
+  "author": "suraj-singh12",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongodb": "^4.6.0",
+    "nodemon": "^2.0.16"
+  }
+}
